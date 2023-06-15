@@ -1,7 +1,7 @@
 # Hi there, I'm Andrea Frigerio 👋 
 
 I am a cloud developer student at ITS INCOM in Busto Arsizio.
-After strengthening the basics of c that I have already learned I'm learning c#, js, ts, html, css.
+After strengthening the basics of c that I have already learned, I'm studying c#, js, ts, html, css, sql, angular.
 
 ## Connect with me:
 [<img align="left" alt="friggi02 | Linkedin" width="22px" src="https://raw.githubusercontent.com/Friggi02/Friggi02/master/assets/linkedin.png" />][linkedin]
